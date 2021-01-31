@@ -2,6 +2,6 @@
 Trial example repository
 
 Hi World,
-Testing out Guthub. 
+Testing out Github. 
 Regards,
 Harish
